@@ -1,2 +1,2 @@
 # letter-project
-"i hope you read this, even if it's too late."
+"please read this letter that i wrote for you."
